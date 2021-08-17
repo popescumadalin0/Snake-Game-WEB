@@ -1,4 +1,3 @@
-//test
 //******************* start ***************************
 document.addEventListener('keyup', start);
 function start() {
